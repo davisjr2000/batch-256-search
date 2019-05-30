@@ -1,0 +1,15 @@
+<div class="container">
+  <div class="row">
+    <div class="col-sm-8 offset-2">
+      <div id="movies">
+        <% @movies.each do |movie| %>
+          <h4><%= movie.title %></h4>
+          <p><%= movie.syllabus %></p>
+        <% end %>
+      </div>
+    </div>
+  </div>
+  <div class="d-flex justify-content-center">
+    <%= paginate @movies %>
+  </div>
+</div>
