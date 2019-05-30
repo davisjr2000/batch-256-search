@@ -1,1 +1,16 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+tony
+⊂_ヽ
+　 ＼＼ stark
+　　 ＼( ͡° ͜ʖ ͡°)
+　　　 >　⌒ヽ
+　　　/ 　 へ＼
+　　 /　　/　＼＼morre
+　　 ﾚ　ノ　　 ヽ_つ
+　　/　/
+　 /　/|
+　(　(ヽ
+　|　|、＼abraço
+　| 丿 ＼ ⌒)
+　| |　　) /
+ノ )　　Lﾉ
+(_／#davis
