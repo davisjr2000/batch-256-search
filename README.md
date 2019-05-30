@@ -1,16 +1,1 @@
-tony
-⊂_ヽ
-　 ＼＼ stark
-　　 ＼( ͡° ͜ʖ ͡°)
-　　　 >　⌒ヽ
-　　　/ 　 へ＼
-　　 /　　/　＼＼morre
-　　 ﾚ　ノ　　 ヽ_つ
-　　/　/
-　 /　/|
-　(　(ヽ
-　|　|、＼abraço
-　| 丿 ＼ ⌒)
-　| |　　) /
-ノ )　　Lﾉ
-(_／#davis
+Tony Stark Morre
